@@ -1,2 +1,2 @@
 # Machine-Learning-Algorithms
-Implementation and practice of various Machine Learning Algorithms using python
+A collection of Python, Data Analysis and Machine Learning projects implemented during my learning journey,
